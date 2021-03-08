@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                echo "job has been done"
+                echo "This is main branch !!"
             }
         }
     }
